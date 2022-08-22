@@ -2,8 +2,10 @@
 
 ## This project was builded with Vite and ReactJs.
 
-### The main features are:
-- Search the weather conditions of the main Brazilian cities;
+### Data is provided by [WeatherAPI](https://www.weatherapi.com/)
+
+### Main features are:
+- Search for weather conditions of the main brazilian cities;
 - Search for weather conditions of the specified city;
 - Responsive layout.
 
