@@ -9,6 +9,22 @@
 - Search for weather conditions of the specified city;
 - Responsive layout.
 
+<br />
+
+### Application screenshots:
+
+<div>
+    Desktop <br />
+    <img src="screenshot/desktop.png" width="70%" />
+</div>
+<br />
+<div>
+    Mobile <br />
+    <img src="screenshot/mobile.png" width="40%" />
+</div>
+
+<br />
+
 You can run this application by:
 
 - Clone this repository:
