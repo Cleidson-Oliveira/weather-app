@@ -9,8 +9,6 @@
 - Search for weather conditions of the specified city;
 - Responsive layout.
 
-<br />
-
 ### Application screenshots:
 
 <div>
